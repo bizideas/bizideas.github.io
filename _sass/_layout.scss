@@ -152,11 +152,13 @@ opacity: 0.25;
 .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
+    margin-top: 15px;
 }
 
 .footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
+    margin-top: 15px;
 }
 
 .footer-col-3 {
